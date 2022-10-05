@@ -1,6 +1,7 @@
 .mainButton{
    color: white;
     font-size: larger;
+    font-size: xx-large;
     font-weight: bolder;
     border-radius: 10px;
 }
@@ -20,15 +21,17 @@
 .subButtonWhatsApp{
     color: white;
     font-size: larger;
+    font-size: xx-large;
     font-weight: bolder;
     border-radius: 10px;
-    background-color: greenyellow;
+    background-color: rgb(47, 255, 154);
     border-color: yellowgreen;
 }
 
 .subButtonFb{
     color: white;
     font-size: larger;
+    font-size: xx-large;
     font-weight: bolder;
     border-radius: 10px;
     background-color:navy;
@@ -37,6 +40,7 @@
 p{
     color: rgb(25, 7, 141);
     font-size: larger;
+    font-size: xx-large;
     font-weight: bolder;
     text-shadow: 2px 2px 8px #fd0000;
 }
@@ -45,6 +49,7 @@ select{
     height: 50px;
     width: 400px;
     font-size: larger;
+    font-size: xx-large;
     font-weight: bolder;
     border-radius: 10px;
     background-color:rgb(188, 188, 220);
