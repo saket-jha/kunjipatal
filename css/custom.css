@@ -51,4 +51,7 @@ select{
     border-radius: 10px;
     background-color:rgb(188, 188, 220);
     text-indent: 10px;
+    width: fit-content;
 }
+
+
